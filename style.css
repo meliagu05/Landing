@@ -265,6 +265,7 @@
   
   .portfolio-screenshot {
     border-radius: 50%;
+    object-fit: cover;
   }
   
   @media (max-width: 600px) {
